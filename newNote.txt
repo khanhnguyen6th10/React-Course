@@ -1,6 +1,0 @@
-page lấy dispatch, prop từ container 
-container  gọi thông qua action
-action map saga
-saga call api
-saga put reducer
-reducer update state
