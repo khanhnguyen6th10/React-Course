@@ -1,0 +1,12 @@
+Windows Login: khanhnq
+LDAP account: khanhnq - Proxy, eGRoupware, Prismy, Remdine, SVN
+Email account: khanh.nguyenquoc@toshiba-tsdv.com
+
+eGroupware: shrek.tsdv.com.vn/egroupware
+
+
+OJT_107
+
+
+npm config set proxy http://khanhnq:Thuctap11@proxy-tsdv.com.vn:3128
+npm config set https-proxy https://khanhnq:Thuctap11@proxy-tsdv.com.vn:3128
